@@ -6,3 +6,15 @@ h1.inicio {
 
 }
 
+p.parrafo1 {
+
+    color:brown;
+    font-weight: bold
+}
+
+p.boton {
+
+position: relative;
+left: 49%;
+
+}
