@@ -4,3 +4,16 @@ color:brown;
 position: relative;
 left: 43%;
 }
+
+p.centrado {
+
+    position: relative;
+    left: 42%;
+}
+
+p.derecha {
+
+position: relative;
+    left: 80%;
+
+}
