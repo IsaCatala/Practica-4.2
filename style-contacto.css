@@ -147,3 +147,9 @@ body{
     outline:0;
     border: 1px solid #97d848;
   }
+
+p.maps {
+
+    position: relative;
+    left: 34%;
+}
